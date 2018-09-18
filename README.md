@@ -17,3 +17,7 @@ https://github.com/congcong0806/ss/blob/master/ss.md
 https://github.com/cloudroc/baidu-nolimit
 
 https://github.com/CodeTips/BaiduNetdiskPlugin-macOS
+
+Mac状态栏
+https://github.com/Congee/NetSpeedMonitor
+https://github.com/yujitach/MenuMeters
